@@ -19,7 +19,7 @@ Buscando expandir meus conhecimentos, mergulhei no mundo do **desenvolvimento we
 
 Durante essa experiência, participei de diversos projetos que me mostraram, na prática, os desafios do mercado — sempre com foco em boas práticas e desenvolvimento de soluções eficientes.
 
-📚 Além da tecnologia, tenho uma forte paixão pela **leitura** e por **filmes** — dois hobbies que me ajudam a exercitar criatividade, pensamento crítico e atenção aos detalhes.
+📚 Além da tecnologia, tenho uma forte paixão pela **literatura** e por **cinema** — dois hobbies que me ajudam a exercitar criatividade, pensamento crítico e atenção aos detalhes.
 
 🚀 Hoje, estou focado em construir **soluções web que façam a diferença**, sempre buscando unir minha bagagem técnica, minha formação acadêmica e meu olhar atento às inovações.
 
